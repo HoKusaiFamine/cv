@@ -1,0 +1,57 @@
+.case {
+    background-color: purple;
+    height: 30px;
+    width: 570px;  
+}
+.case2 {   
+    background-color: peru;
+    width: 570px; 
+    
+}
+.case3 {
+    background-color: violet;
+    width: 570px;  
+}
+h12 {
+    color: black;  
+    font-size: 180%;
+    font-family: 'Rubik Vinyl', cursive;
+    text-shadow: red 1px 0 10px;
+    display:flow-root;
+}
+li {
+    font-size: 150%;
+}
+h3 {
+    color: white;  
+    font-size: 150%;
+    font-family: 'Rubik Vinyl', cursive;
+}
+h4 {
+    font-size: 150%;    
+}
+.colonne {
+    display: flex;
+    justify-content: space-around ;
+}
+.colonne2 {
+    display: flex;           
+}
+.titre1 {
+    background-color: rgb(17, 201, 247);
+    color: white;          
+    width: 430mm;            
+}
+.titre2 {
+    background-color: green;
+    color: white; 
+    
+      
+}     
+.neutre {
+    color: white;
+}
+ul1 {
+    font-size: 150%; 
+    list-style-image: linear-gradient(to left bottom, red, blue);
+}   
